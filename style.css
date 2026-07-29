@@ -355,7 +355,7 @@ p {
   display: flex;
   align-items: center;
   overflow: hidden;
-  background-image: linear-gradient(90deg, rgba(10,14,20,0.95) 0%, rgba(10,14,20,0.75) 35%, rgba(10,14,20,0.3) 70%, rgba(10,14,20,0.1) 100%), url('../images/hero-construction.jpg');
+  background-image: linear-gradient(90deg, rgba(10,14,20,0.95) 0%, rgba(10,14,20,0.75) 35%, rgba(10,14,20,0.3) 70%, rgba(10,14,20,0.1) 100%), url('images/hero-construction.jpg');
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
